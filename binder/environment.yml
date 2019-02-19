@@ -1,0 +1,9 @@
+name: jupyterhub-team-stats
+channels:
+  - conda-forge
+
+dependencies:
+  - altair
+  - papermill
+  - pandas
+  - watchtower
